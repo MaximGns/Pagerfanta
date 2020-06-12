@@ -1,5 +1,5 @@
 {
-    "name": "pagerfanta/pagerfanta",
+    "name": "icapps/pagerfanta",
     "type": "library",
     "description": "Pagination for PHP",
     "keywords": ["page", "paging", "paginator", "pagination"],
